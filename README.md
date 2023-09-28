@@ -2,6 +2,8 @@
 
 Simple constant evaluator for a language
 
+**Note:** _It does not currently check if an expression can be evaluated as a constant, as other code is not implemented to do so yet. eg. Function calls_
+
 ## Example
 
 ```
